@@ -1,4 +1,4 @@
-# mytechtrail
+<!-- # mytechtrail
 
 ><p>Welcome to mytechtrail, a webfolio designed to showcase the trails I've blazed in the ever-evolving landscape of tech.<p>
 
@@ -20,5 +20,5 @@ In the blog section of the website, I employ web scraping techniques to fetch re
 
 The contact page is powered by EmailJS, a service that allows us to send emails directly from the website without requiring a backend server.
 
-
+ -->
 
